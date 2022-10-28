@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Camisa",
+    "price": 100,
+    "discount": 30,
+    "url": "https://picsum.photos/200"
+  },
+  {
+    "name": "Teclado",
+    "price": 10,
+    "discount": 5,
+    "url": "https://picsum.photos/200"
+  },
+  {
+    "name": "Zapato",
+    "price": 20,
+    "discount": 50,
+    "url": "https://picsum.photos/200"
+  },
+  {
+    "name": "Cuadro",
+    "price": 100,
+    "discount": 30,
+    "url": "https://picsum.photos/200"
+  },
+  {
+    "name": "Camisa",
+    "price": 100,
+    "discount": 30,
+    "url": "https://picsum.photos/200"
+  },
+  {
+    "name": "Teclado",
+    "price": 10,
+    "discount": 5,
+    "url": "https://picsum.photos/200"
+  }
+]
